@@ -46,7 +46,8 @@ The dataset contains information about companies, locations, job titles, industr
 - Salary analysis based on education qualifications.
 
 📊 Power BI Dashboard
-[Job Market Analysis Dashboard](Job_Market_Dashboard.png)
+<img width="946" height="538" alt="Screenshot 2026-11-04 154519" src="https://github.com/user-attachments/assets/2b3b61d4-dd6a-47dd-9b63-819643042448" />
+
 The interactive dashboard includes:
 - Total Job Postings.
 - Total Companies.
